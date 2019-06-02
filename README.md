@@ -10,18 +10,18 @@
 부산광역시 내의 각 행정구관에 위치한 공공기관의 종류, 위치, 연락처를 제공하는 프로그램으로써 부산광역시에 여행을 온 여행객들과 거주하고 있는 부산시민들에게 본인이 알고자 하는 공공기관에 관련된 정보를 제공할 수 있어 일상생활에 유용하게 쓰일 수 있는 프로그램입니다.
 ## 사용한 공공데이터 
 [데이터 - 금정구](https://github.com/201811103/python2019./blob/master/금정구.csv)\
-[데이터 - 금정구병원](https://github.com/201811103/python2019./blob/master/금정구병원.csv)\n
-[데이터 - 기장군](https://github.com/201811103/python2019./blob/master/기장군.csv)\n
-[데이터 - 기장군병원](https://github.com/201811103/python2019./blob/master/기장군병원.csv)\n
-[데이터 - 남구](https://github.com/201811103/python2019./blob/master/남구.csv)\n
-[데이터 - 북구](https://github.com/201811103/python2019./blob/master/북구.csv)\n
-[데이터 - 서구](https://github.com/201811103/python2019./blob/master/서구.csv)\n
-[데이터 - 수영구](https://github.com/201811103/python2019./blob/master/수영구.csv)\n
-[데이터 - 수영구병원](https://github.com/201811103/python2019./blob/master/수영구병원.csv)\n
-[데이터 - 연제구](https://github.com/201811103/python2019./blob/master/연제구.csv)\n
-[데이터 - 연제구병원](https://github.com/201811103/python2019./blob/master/연제구병원.csv)\n
-[데이터 - 영도구](https://github.com/201811103/python2019./blob/master/영도구.csv)\n
-[데이터 - 영도구병원](https://github.com/201811103/python2019./blob/master/영도구.csv)\n
+[데이터 - 금정구병원](https://github.com/201811103/python2019./blob/master/금정구병원.csv)\
+[데이터 - 기장군](https://github.com/201811103/python2019./blob/master/기장군.csv)\
+[데이터 - 기장군병원](https://github.com/201811103/python2019./blob/master/기장군병원.csv)\
+[데이터 - 남구](https://github.com/201811103/python2019./blob/master/남구.csv)\
+[데이터 - 북구](https://github.com/201811103/python2019./blob/master/북구.csv)\
+[데이터 - 서구](https://github.com/201811103/python2019./blob/master/서구.csv)\
+[데이터 - 수영구](https://github.com/201811103/python2019./blob/master/수영구.csv)\
+[데이터 - 수영구병원](https://github.com/201811103/python2019./blob/master/수영구병원.csv)\
+[데이터 - 연제구](https://github.com/201811103/python2019./blob/master/연제구.csv)\
+[데이터 - 연제구병원](https://github.com/201811103/python2019./blob/master/연제구병원.csv)\
+[데이터 - 영도구](https://github.com/201811103/python2019./blob/master/영도구.csv)\
+[데이터 - 영도구병원](https://github.com/201811103/python2019./blob/master/영도구.csv)\
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/201811103/python2019./blob/master/201811103.py) 
