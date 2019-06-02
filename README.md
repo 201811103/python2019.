@@ -21,7 +21,7 @@
 [데이터 - 연제구](https://github.com/201811103/python2019./blob/master/연제구.csv)\
 [데이터 - 연제구병원](https://github.com/201811103/python2019./blob/master/연제구병원.csv)\
 [데이터 - 영도구](https://github.com/201811103/python2019./blob/master/영도구.csv)\
-[데이터 - 영도구병원](https://github.com/201811103/python2019./blob/master/영도구.csv)\
+[데이터 - 영도구병원](https://github.com/201811103/python2019./blob/master/영도구.csv)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/201811103/python2019./blob/master/201811103.py) 
