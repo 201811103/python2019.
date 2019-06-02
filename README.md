@@ -9,8 +9,8 @@
 
 부산광역시 내의 각 행정구관에 위치한 공공기관의 종류, 위치, 연락처를 제공하는 프로그램으로써 부산광역시에 여행을 온 여행객들과 거주하고 있는 부산시민들에게 본인이 알고자 하는 공공기관에 관련된 정보를 제공할 수 있어 일상생활에 유용하게 쓰일 수 있는 프로그램입니다.
 ## 사용한 공공데이터 
-[데이터보기](https://github.com/cybermin/python2019/blob/master/%EB%B6%80%EC%82%B0%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC_%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%EC%97%AD%EC%82%AC%EC%A0%95%EB%B3%B4_20190520.csv)
-https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001496313&fileDetailSn=1&publicDataDetailPk=uddi:4c4175ec-62b6-4c0f-afc8-97df8ded193d_201812261043
+[데이터 - 금정구](https://github.com/201811103/python2019./blob/master/금정구.csv)
+[데이터 - 금정구병원](https://github.com/201811103/python2019./blob/master/금정구병원.csv)
 https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001482354&fileDetailSn=1&publicDataDetailPk=uddi:57ebac09-9281-4a08-801f-baf17b2c12f3
 https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001508387&fileDetailSn=1&publicDataDetailPk=uddi:332c185d-17e2-444c-b12e-d554a0f705be_201903211243
 https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001507819&fileDetailSn=1&publicDataDetailPk=uddi:522901eb-55c4-4c1b-8a0f-eba60eeeff26
